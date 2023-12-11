@@ -1,7 +1,7 @@
 
   
 ### <div align="center"><h1> Hi there 👋👨💻</h1></div>  
-### <div align="center"> <h1> I'm Gautam </h1>a passionate Programmer👨‍💻</div>  
+### <div align="center"> <h1> I'm Rishabh </h1>a passionate Programmer👨‍💻</div>  
   <br/>
 
 - 🔭 I’m currently pursuing BTech CSE from [LNCT](https://lnct.ac.in/)  
